@@ -1,10 +1,11 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <ReferenceAssembly PathName="d:\musicapp\musicapp\app\musicplayerapp\musicplayerapp\musicplayerapp\bin\debug\musicplayerapp.dll" HashGuid="840814a1-22a4-7d26-cfd9-fb94f395f50c" />
-    <ReferenceAssembly PathName="d:\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
-    <ReferenceAssembly PathName="d:\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
-    <ReferenceAssembly PathName="d:\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
-    <ReferenceAssembly PathName="d:\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="cc26105e-9714-a8a4-7460-d1885be1ee00" />
-    <ReferenceAssembly PathName="d:\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.0.0.6482\lib\win81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+    <LocalAssembly PathName="e:\github\musicapp\musicapp\app\musicplayerapp\musicplayerapp\musicplayerapp.windows\obj\debug\intermediatexaml\musicplayerapp.windows.exe" HashGuid="ce729b23-e718-9cb8-1ddf-2e4b85cf2ffd" />
+    <ReferenceAssembly PathName="e:\github\musicapp\musicapp\app\musicplayerapp\musicplayerapp\musicplayerapp\bin\debug\musicplayerapp.dll" HashGuid="7633812b-59b2-7773-c700-fc58297e4e6f" />
+    <ReferenceAssembly PathName="e:\github\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.3.4.224\lib\win81\xamarin.forms.core.dll" HashGuid="819b85c3-f6b1-e32c-2830-7206104fccc4" />
+    <ReferenceAssembly PathName="e:\github\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.3.4.224\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="e:\github\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.3.4.224\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="a861a807-c05d-0f84-2d21-93f0c7e733ae" />
+    <ReferenceAssembly PathName="e:\github\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.3.4.224\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="ef385dc7-95ee-4eb7-143e-7726fbe419c2" />
+    <ReferenceAssembly PathName="e:\github\musicapp\musicapp\app\musicplayerapp\packages\xamarin.forms.2.3.4.224\lib\win81\xamarin.forms.xaml.dll" HashGuid="d02ccf2b-8fa0-fb9b-4df1-b85a97365ca2" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

@@ -1,0 +1,2 @@
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\MusicPlayerApp.Windows.csproj;neutral
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.csproj;neutral
