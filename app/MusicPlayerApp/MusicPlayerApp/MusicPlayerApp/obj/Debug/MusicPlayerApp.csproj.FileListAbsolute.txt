@@ -31,5 +31,3 @@ E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
