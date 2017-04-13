@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-272LAHO</Machine>
-    <WindowsUser>Tim</WindowsUser>
+    <Machine>DESKTOP-7VARR13</Machine>
+    <WindowsUser>tsgar</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>6.3</TargetOsVersion>
     <TargetOsDescription>Windows 8.1</TargetOsDescription>
@@ -10,88 +10,87 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>0107660b-274e-46c2-afc3-e8868da65de7</PackageIdentityName>
     <PackageIdentityPublisher>CN=tsgar</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MusicPlayerApp.Windows.exe">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MusicPlayerApp.Windows.exe">
       <PackagePath>MusicPlayerApp.Windows.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll">
       <PackagePath>MusicPlayerApp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Core.dll">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.dll">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.dll">
       <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
       <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Xaml.dll">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MusicPlayerApp.Windows.xr.xml">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MusicPlayerApp.Windows.xr.xml">
       <PackagePath>MusicPlayerApp.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.224\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\packages\Xamarin.Forms.2.3.4.231\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
