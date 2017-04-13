@@ -27,8 +27,6 @@ E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojResolveAssemblyReference.cache
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.MainPage.xaml.g.cs
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.App.xaml.g.cs
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\Xamarin.Forms.Core.dll
@@ -46,11 +44,7 @@ D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlay
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.dll.mdb
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.dll.mdb

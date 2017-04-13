@@ -1,2 +1,2 @@
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.WinPhone\MusicPlayerApp.WinPhone.csproj;neutral
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.csproj;neutral
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.WinPhone\MusicPlayerApp.WinPhone.csproj;neutral
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.csproj;neutral

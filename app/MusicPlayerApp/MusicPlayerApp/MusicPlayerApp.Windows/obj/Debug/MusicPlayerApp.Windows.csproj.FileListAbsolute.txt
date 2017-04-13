@@ -7,11 +7,6 @@ E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Win
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\AppxManifest.xml
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MusicPlayerApp.Windows.build.appxrecipe
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MusicPlayerApp.dll
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Core.dll
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Platform.dll
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Platform.WinRT.dll
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Platform.WinRT.Tablet.dll
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Xaml.dll
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\MusicPlayerApp.pdb
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Core.xml
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Platform.WinRT.pri
@@ -92,3 +87,8 @@ D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\obj\Debug\M
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.pri.xml
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\obj\Debug\Xamarin.Forms.Platform.WinRT.Tablet.pri.xml
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\obj\Debug\ProjectArchitectures.txt
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Core.dll
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Platform.WinRT.dll
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Platform.WinRT.Tablet.dll
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Windows\bin\Debug\Xamarin.Forms.Xaml.dll

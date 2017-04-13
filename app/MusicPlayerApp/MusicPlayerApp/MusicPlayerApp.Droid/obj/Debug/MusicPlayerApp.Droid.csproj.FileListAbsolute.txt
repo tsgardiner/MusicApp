@@ -133,7 +133,6 @@ E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Dro
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\MusicPlayerApp.Droid.dll.mdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\bin\Debug\MusicPlayerApp.Droid.dll
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\bin\Debug\MusicPlayerApp.Droid.pdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\bin\Debug\MusicPlayerApp.Droid.apk
@@ -215,4 +214,6 @@ D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\and
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\MusicPlayerApp.Droid.dll.mdb
-D:\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\bin\Debug\MusicPlayerApp.Droid.dll.mdb
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\obj\Debug\MusicPlayerApp.Droid.dll.mdb
+E:\Github\MusicApp\MusicApp\app\MusicPlayerApp\MusicPlayerApp\MusicPlayerApp.Droid\bin\Debug\MusicPlayerApp.Droid.dll.mdb
